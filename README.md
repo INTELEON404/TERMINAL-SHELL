@@ -1,6 +1,9 @@
 # TERMINAL-SHELL
 
-![TERMINAL-SHELL](https://i.ibb.co/8Dt6BLk/shell.png)
+<div align="center">
+  <img src="https://i.ibb.co/8Dt6BLk/shell.png" alt="TERMINAL" />
+</div>
+
 
 **TERMINAL-SHELL** is a sleek, web-based terminal emulator built with PHP, HTML, CSS, and JavaScript. Designed with a cyberpunk-inspired green-on-black aesthetic, it offers a browser-based command-line interface with a nano-like text editor for file manipulation. Powered by the Roboto Mono font, this project delivers a modern and immersive terminal experience.
 
