@@ -1,7 +1,7 @@
 # TERMINAL-SHELL
 
 <div align="center">
-  <img src="https://i.ibb.co/8Dt6BLk/shell.png" alt="TERMINAL" />
+  <img src="https://i.ibb.co/8Dt6BLk/shell.png" alt="logo" />
 </div>
 
 
