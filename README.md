@@ -1,7 +1,7 @@
 # TERMSHELL
 
 <div align="center">
-  <img src="[[https://i.ibb.co/8Dt6BLk/shell.png](https://github.com/INTELEON404/Template/blob/main/shell.png)](https://github.com/INTELEON404/Template/blob/main/shell.png)" alt="logo" />
+  <img src="https://github.com/INTELEON404/Template/blob/main/shell.png" alt="logo" />
 </div>
 
 
