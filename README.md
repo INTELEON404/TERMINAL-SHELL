@@ -1,4 +1,4 @@
-# TERMINAL-SHELL
+# TERMSHELL
 
 <div align="center">
   <img src="https://i.ibb.co/8Dt6BLk/shell.png" alt="logo" />
@@ -7,7 +7,7 @@
 
 **TERMINAL-SHELL** is a sleek, web-based terminal emulator built with PHP, HTML, CSS, and JavaScript. Designed with a cyberpunk-inspired green-on-black aesthetic, it offers a browser-based command-line interface with a nano-like text editor for file manipulation. Powered by the Roboto Mono font, this project delivers a modern and immersive terminal experience.
 
-📌 **Repository**: [github.com/INTELEON404/TERMINAL-SHELL](https://github.com/INTELEON404/TERMINAL-SHELL)
+📌 **Repository**: [github.com/INTELEON404/TERMSHELL](https://github.com/INTELEON404/TERMSHELL)
 
 ## 🚀 Features
 
@@ -34,11 +34,11 @@ To run TERMINAL-SHELL locally:
         Grant read/write permissions to the web server user for file editing:
         bash
 
-        chown -R www-data:www-data /path/to/TERMINAL-SHELL
-        chmod -R 775 /path/to/TERMINAL-SHELL
+        chown -R www-data:www-data /path/to/termshell.php
+        chmod -R 775 /path/to/termshell.php
 
     Access the Terminal:
-        Navigate to http://localhost/TERMINAL-SHELL in your browser.
+        Navigate to http://localhost/termshell.php in your browser.
 
 📖 Usage
 
