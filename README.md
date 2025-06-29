@@ -90,5 +90,5 @@ For questions, bug reports, or feedback:
 
     Open an issue on GitHub.
     Connect with me on X
-    .
+    
 
